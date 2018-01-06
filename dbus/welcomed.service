@@ -1,0 +1,12 @@
+[Unit]
+Description=Welcome System Session
+
+[Service]
+Type=dbus
+BusName=com.condres.welcome
+ExecStart=/usr/bin/condres-welcomed
+
+[Install]
+WantedBy=multi-user.target
+
+

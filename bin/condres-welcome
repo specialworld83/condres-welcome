@@ -1,0 +1,2 @@
+#!/bin/bash
+python -Wall /usr/share/condres/welcome/condres-welcome.py $1 $2 $3 $4

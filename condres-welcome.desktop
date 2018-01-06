@@ -1,0 +1,10 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+StartupNotify=false
+Name=Condres Welcome
+Exec=condres-welcome
+Icon=/usr/share/condres/welcome/data/img/logos/condres.png
+Comment=The Condres Welcome utility.
+Name[de_DE.UTF-8]=Condres Welcome

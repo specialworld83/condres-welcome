@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo python -Wall /usr/share/condres/welcomed/condres-welcomed.py -d -v $1 $2 $3 $4
